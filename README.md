@@ -9,3 +9,5 @@ Stay up-to-date with your favorite teams, scores, and match schedules right at y
 🏆 Recent Matches: View the results of past matches.
 
 Technology used : React Native
+
+Video of running app : https://drive.google.com/file/d/145U9_Gaq49p7dUU9EFUQ8ZLRzxMOkHGJ/view?usp=sharing
